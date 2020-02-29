@@ -1,5 +1,5 @@
 # Geo
-## Displays the details of your network.
+Displays the details of your network.
 
 ## geo (Project Info)
 [Website](https://github.com/alexanderepstein/Bash-Snippets)
