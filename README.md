@@ -17,6 +17,8 @@ Note: requires `docker login`
 
 ## Run image
 `$ docker run -it --rm macabees/geo -g`
+(An alternative 1 [curl]:   `curl ifconfig.co/json | jq`)
+(An alternative 2 [HTTPie]: `http ifconfig.co/json)
 
 ## Help
 `$ docker run -it --rm macabees/geo help`
